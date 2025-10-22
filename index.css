@@ -224,4 +224,8 @@ svg .stroked {
         background-color: #000000;
         color: #FFFFFF;
     }
+    lh {
+        font-size: larger;
+    }
 }
+
